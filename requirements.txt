@@ -1,7 +1,6 @@
-
-streamlit
+streamlit>=1.20
+python-docx>=0.8.11
 pandas
-docxtpl
 python-magic
 
 

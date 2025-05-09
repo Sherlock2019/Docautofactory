@@ -1,0 +1,7 @@
+python-docx
+python-docx-template
+streamlit
+tabulate
+pandas
+openpyxl
+Pillow

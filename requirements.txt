@@ -1,16 +1,7 @@
-python-docx
-<<<<<<< HEAD
-python-docx-template
-streamlit
-tabulate
-pandas
-openpyxl
-Pillow
-=======
+
 streamlit
 pandas
 docxtpl
 python-magic
 
 
->>>>>>> bfd15dd (Initial fresh bundle)
